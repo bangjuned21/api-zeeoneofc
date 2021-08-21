@@ -8,7 +8,7 @@ var zahirr = db.get("zahirr");
 	console.log('')
 }
 
-var creatorList = ['@JunexGntng','@alpha'];
+var creatorList = ['@JunedGntng','@alpha'];
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)];
 
 
